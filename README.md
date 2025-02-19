@@ -52,7 +52,7 @@
 
   <div id="badges">
     <a href="https://docs.google.com/spreadsheets/d/1hbqhZmemlDsAdXOQ0kVKpgCTkGTbhtRiKmGH6BDX-jg/edit?usp=sharing" target="_blank">
-      <img src="https://img.icons8.com/?size=512&id=13654&format=png" width="40" height="40" alt="1" />
+      <img src="https://img.icons8.com/?size=512&id=13654&format=png" width="40" height="40" title="Тест-кейс" alt="1" />
     </a>
     <a href="https://docs.google.com/spreadsheets/d/1Od8b6T4ZUAQ3oy6njfINTNNqINe038Km6dddjgqqVnw/edit?usp=sharing" target="_blank">
       <img src="https://img.icons8.com/?size=512&id=13654&format=png" width="40" height="40" alt="2" />
