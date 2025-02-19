@@ -8,6 +8,19 @@
 В настоящее время изучаю автоматизированное тестирование.
 
 ---
+
+### Сертификаты об обучении:
+
+  <div id="badges">
+    <a href="https://drive.google.com/file/d/1oaWsUh7zJKjljUtjqmDza4LzBhkvq6sa/view?usp=sharing" target="_blank">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-BIX6kxw0EkF6rMEqMxmctY47w7U6L4VRQ&s" width="40" height="40" alt="Netology" />
+    </a>
+    <a href="https://drive.google.com/file/d/1lUNRXIEyyW4KSSDqSKuK-W1UHLhfhQ-1/view?usp=sharing" target="_blank">
+      <img src="https://w7.pngwing.com/pngs/305/59/png-transparent-stepik-org-android-mobile-phones-creative-tools-text-trademark-logo-thumbnail.png" width="40" height="40" alt="Stepik" />
+    </a>
+  </div>
+
+---
 ### 🤝 Социальные сети:
 
   <div id="badges">
