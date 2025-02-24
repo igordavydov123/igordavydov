@@ -65,7 +65,10 @@
     <a href="https://docs.google.com/spreadsheets/d/1hbqhZmemlDsAdXOQ0kVKpgCTkGTbhtRiKmGH6BDX-jg/edit?usp=sharing" target="_blank">
       <img src="https://img.icons8.com/?size=512&id=13654&format=png" width="40" height="40" title="Тест-кейс" alt="1" />
     </a>
-    <a href="https://docs.google.com/spreadsheets/d/1Od8b6T4ZUAQ3oy6njfINTNNqINe038Km6dddjgqqVnw/edit?usp=sharing" target="_blank">
+   <a href="https://docs.google.com/spreadsheets/d/1Ls8d24tRaRvfL7Jia9b6oXFFeqoHa5EPpc5QEnR0nLU/edit?usp=sharing" target="_blank">
+      <img src="https://img.icons8.com/?size=512&id=13654&format=png" width="40" height="40" title="Баг-репорты" alt="1" />
+    </a>
+        <a href="https://docs.google.com/spreadsheets/d/1Od8b6T4ZUAQ3oy6njfINTNNqINe038Km6dddjgqqVnw/edit?usp=sharing" target="_blank">
       <img src="https://img.icons8.com/?size=512&id=13654&format=png" width="40" height="40" title="Баг-репорт" alt="2" />
     </a>
      <a href="https://igordavydov.atlassian.net/browse/NET-1" target="_blank">
