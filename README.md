@@ -56,7 +56,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="Apache Jmeter" alt="Apache Jmeter" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://www.flaticon.com/ru/free-icon/git_4494740" title="Git" alt="Git" width="40" height="40"/>&nbsp
+  <img src="https://mywebicons.ru/i/jpg/28d67b40c8d9f8b165af598d979a4cb5.jpg" title="Git" alt="Git" width="40" height="40"/>&nbsp
 </div>
 
 ---
